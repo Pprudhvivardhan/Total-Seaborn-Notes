@@ -1,8 +1,8 @@
 # Total-Seaborn-Notes
 
-🎉  My Total Seaborn Notes  📚🔍📊
+🎉  My Total Seaborn Notes  📚🔍📊🎨
 
- a comprehensive resource to master the art of data visualization with Seaborn! 🚀🎨
+ a comprehensive resource to master the art of data visualization with Seaborn! 🚀 
 
 🔸 Axes Level and Function Level: Discover the power of Seaborn as we delve into both Axes level and Function level approaches. Unleash the full potential of your visualizations by understanding how to manipulate individual axes or use concise functions to create stunning plots. 📈🔍📊
 
