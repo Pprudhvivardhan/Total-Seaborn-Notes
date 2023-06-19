@@ -4,7 +4,7 @@
 
  a comprehensive resource to master the art of data visualization with Seaborn! 🚀 
 
-🔸 Axes Level and Function Level: Discover the power of Seaborn as we delve into both Axes level and Function level approaches. Unleash the full potential of your visualizations by understanding how to manipulate individual axes or use concise functions to create stunning plots. 📈🔍📊
+🔸 Axes Level and Function Level: Discover the power of Seaborn as we delve into both Axes level and Function level approaches. Unleash the full potential of your visualizations by understanding how to manipulate individual axes or use concise functions to create stunning plots. 📈🔍 
 
 🔸 Different Kinds of Plots: From basic scatter plots and line plots to advanced heatmaps and violin plots, Total Seaborn Notes covers it all! Gain insights into each plot type, understand their applications, and learn how to customize them to suit your data and storytelling needs. 📉📊🔥📊
 
